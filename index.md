@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "First Blog"
 ---
 
 This blog is powered by GitHub Pages!!!
